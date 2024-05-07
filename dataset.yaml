@@ -1,0 +1,9 @@
+
+train = ../content/yolo_data/train
+val = ../content/yolo_data/val
+
+
+
+classes 
+nc= 4
+
